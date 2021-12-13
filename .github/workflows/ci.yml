@@ -27,7 +27,7 @@ jobs:
       run: pnpm install
 
     - name: Build VuePress
-      run: yarn docs:build
+      run: pnpm docs:build
 
     - name: Deploy to GitHub Pages
       uses: crazy-max/ghaction-github-pages@v2
