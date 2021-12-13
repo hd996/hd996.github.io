@@ -1,0 +1,12 @@
+{
+  "name": "hd996.github.io",
+  "description": "hd996 blog",
+  "private": false,
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress": "^2.0.0-beta.27"
+  }
+}
