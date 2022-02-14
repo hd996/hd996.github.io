@@ -15,9 +15,9 @@ date: 2021-12-10
 | Vue | [Vue3](https://v3.cn.vuejs.org/) |
 | React | [React](https://zh-hans.reactjs.org/) |
 | Nuxt | [Nuxt3](https://v3.nuxtjs.org/) |
-| NodeJs | [NestJs](https://docs.nestjs.cn/) \| [Koa](https://github.com/koajs/koa) \| [GraphQL](https://graphql.cn/) |
+| NodeJS | [NestJS](https://docs.nestjs.cn/) \| [Koa](https://github.com/koajs/koa) \| [GraphQL](https://graphql.cn/) |
 | Go | [Gin](https://github.com/gin-gonic/gin) |
 | CI/CD | [Jenkins](https://www.jenkins.io/zh/) \| [Kubernetes](https://kubernetes.io/) \| [Docker](https://www.docker.com/) |
 | 微服务 | [go-zero](https://github.com/zeromicro/go-zero) \| [Go Micro](https://github.com/asim/go-micro) |
-| 工具类 | [ESLint](https://eslint.org/) \| [Prettier](https://prettier.io/) |
+| 工具类 | [ESLint](https://eslint.org/) \| [Prettier](https://prettier.io/) \| [Webpack](https://webpack.js.org/) \| [Vite](https://vitejs.dev/) |
 | 数据库 | [MySQL](https://www.mysql.com/cn/) \| [Redis](https://redis.io/) |
