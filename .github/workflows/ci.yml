@@ -33,6 +33,6 @@ jobs:
       uses: crazy-max/ghaction-github-pages@v2
       with:
         target_branch: gh-pages
-        build_dir: ${{ github.workspace }}/docs/.vuepress/dist
+        build_dir: .vuepress/dist
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
